@@ -1,0 +1,3 @@
+# Local development only. Copy to .dev.vars and set your own value.
+# For deployed Workers, use: npx wrangler secret put API_KEY
+API_KEY=your-dev-secret
