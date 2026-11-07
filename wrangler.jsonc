@@ -14,10 +14,11 @@
 	"ai": {
 		"binding": "AI"
 	},
-	"kv_namespaces": [
+	"d1_databases": [
 		{
-			"binding": "KV",
-			"id": "21c1fc4a1a694453aff83cff6aac510e"
+			"binding": "DB",
+			"database_name": "my-agent-worker-db",
+			"database_id": "652cf027-6ec7-4452-8177-bd2683bdcce1"
 		}
 	]
 	/**
